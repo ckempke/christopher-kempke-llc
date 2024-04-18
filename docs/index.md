@@ -11,3 +11,5 @@ If you're here for information or support for our software applications, you can
 ## About Christopher Kempke, LLC
 
 Christopher Kempke has several decades of software development experience, from both fortune 100 companies and smaller venues, typically in mobile development, user interfaces, and computer graphics.     He's now retired, but is still available for consulting or developer training projects.
+
+> Copyright 2024, Christopher Kempke, LLC
