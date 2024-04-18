@@ -1,17 +1,17 @@
 site_name: Christopher Kempke Support
-site_url: https://ckempke.github.io/support
+site_url: https://ckempke.github.io/christopher-kempke-llc
 theme:
   name: material
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
-      primary: deep purple
+      primary: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
-      primary: deep purple
+      primary: deep orange
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
